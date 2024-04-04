@@ -1,0 +1,7 @@
+{
+    "transactionId": "12345",
+    "fromAccount": "123456789",
+    "toAccount": "123456789",
+    "amount": "123.00",
+    "description": "This is the description."
+}

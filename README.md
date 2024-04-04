@@ -1,1 +1,1 @@
-# Sentiment-Scoring-and-Reporting-Service-for-Transaction-Descriptions
+# Sentiment Scoring and Reporting Service for Transaction Descriptions
